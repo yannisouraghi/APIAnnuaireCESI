@@ -1,0 +1,149 @@
+﻿<Window
+    x:Class="ProjetAnnuaire.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:fa5="http://schemas.fontawesome.com/icons/"
+    xmlns:local="clr-namespace:ProjetAnnuaire"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    DataContext="{Binding RelativeSource={RelativeSource Self}}"
+    mc:Ignorable="d">
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" MaxWidth="150" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <StackPanel
+            Grid.Column="0"
+            Width="150"
+            Background="DarkSlateGray">
+            <!--  Mode Visiteur  -->
+            <Expander>
+                <Expander.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock
+                            Margin="10"
+                            FontWeight="Bold"
+                            Foreground="White"
+                            Text="Mode Visiteur" />
+                        <TextBlock
+                            VerticalAlignment="Center"
+                            FontFamily=".../Fonts/#FontAwesome"
+                            FontSize="23"
+                            Foreground="White"
+                            Text="&#xf007;" />
+                    </StackPanel>
+                </Expander.Header>
+                <Button
+                    Margin="14"
+                    Click="RechercherButton_Click"
+                    Content="Rechercher"
+                    FontWeight="Bold"
+                    Foreground="Black" />
+            </Expander>
+
+            <!--  Mode Admin  -->
+            <Expander x:Name="adminExpander" Visibility="{Binding AdminExpanderVisibility}">
+                <Expander.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock
+                            Margin="10"
+                            FontWeight="Bold"
+                            Foreground="White"
+                            Text="Mode Admin" />
+                        <TextBlock
+                            VerticalAlignment="Center"
+                            FontFamily="../Fonts/#FontAwesome"
+                            FontSize="23"
+                            Foreground="White"
+                            Text="&#xf21b;" />
+                    </StackPanel>
+                </Expander.Header>
+                <StackPanel>
+                    <Button
+                        Margin="14"
+                        Click="RechercherButton_Click"
+                        Content="Rechercher"
+                        FontWeight="Bold"
+                        Foreground="Black" />
+                    <Button
+                        Margin="14"
+                        Click="AjouterButton_Click"
+                        Content="Ajouter"
+                        FontWeight="Bold"
+                        Foreground="Black" />
+                    <Button
+                        Margin="14"
+                        Click="SupprimerButton_Click"
+                        Content="Supprimer"
+                        FontWeight="Bold"
+                        Foreground="Black" />
+                </StackPanel>
+            </Expander>
+
+            <Button
+                Margin="14"
+                Click="Deconnexion_Click"
+                FontWeight="Bold"
+                Visibility="{Binding AdminExpanderVisibility}">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock
+                        Margin="10"
+                        Foreground="White"
+                        Text="Deconnection" />
+                    <TextBlock
+                        VerticalAlignment="Center"
+                        FontFamily="../Fonts/#FontAwesome"
+                        FontSize="20"
+                        Foreground="White"
+                        Text="&#xf011;" />
+                </StackPanel>
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="DarkSlateGray" />
+                        <Setter Property="Foreground" Value="White" />
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="Button">
+                                    <Border
+                                        Background="{TemplateBinding Background}"
+                                        BorderBrush="{TemplateBinding BorderBrush}"
+                                        BorderThickness="{TemplateBinding BorderThickness}"
+                                        CornerRadius="5">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+            </Button>
+        </StackPanel>
+        <Frame
+            x:Name="contentFrame"
+            Grid.Column="1">
+            <Frame.Template>
+                <ControlTemplate TargetType="Frame">
+                    <Grid>
+                        <ContentPresenter />
+                        <StackPanel
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Bottom"
+                            Orientation="Horizontal">
+                            <Button Command="{x:Static NavigationCommands.BrowseBack}" Content="&#9664;" />
+                            <Button Command="{x:Static NavigationCommands.BrowseForward}" Content="&#9654;" />
+                        </StackPanel>
+                    </Grid>
+                </ControlTemplate>
+            </Frame.Template>
+        </Frame>
+    </Grid>
+</Window>
