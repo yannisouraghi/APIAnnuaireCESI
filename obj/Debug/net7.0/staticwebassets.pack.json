@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\APIAnnuaire.bundle.scp.css",
+      "PackagePath": "staticwebassets\\APIAnnuaire.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yxo2001\\OneDrive - Ingersoll Rand\\Bureau\\APIAnnuaireCESI-main\\APIAnnuaireCESI-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.APIAnnuaire.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.APIAnnuaire.props",
+      "PackagePath": "build\\APIAnnuaire.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.APIAnnuaire.props",
+      "PackagePath": "buildMultiTargeting\\APIAnnuaire.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.APIAnnuaire.props",
+      "PackagePath": "buildTransitive\\APIAnnuaire.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
